@@ -33,6 +33,9 @@
 
 #### 轮值主编
 <div>
+<a href='https://github.com/ChengzhiHuang'>
+<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/chengzhi.png?raw=true'>
+</a>
 <a href='https://github.com/Damonvvong'>
 <img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/Damonvvong.png?raw=true'>
 </a>
@@ -121,6 +124,12 @@
 </a>
 <a href='https://github.com/cjlcooper'>
 <img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/CooperChen.png?raw=true'>
+</a>
+<a href='https://github.com/jiyan135960'>
+<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/jiyan135960.png?raw=true'>
+</a>
+<a href='https://github.com/zoeGuo'>
+<img src='https://github.com/SwiftOldDriver/iOS-Weekly/blob/master/assets/author/zoeGuo.png?raw=true'>
 </a>
 </div>
 
